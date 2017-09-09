@@ -6,10 +6,10 @@ from textblob import TextBlob
 class Twitter_User(object):
 
 	def __init__(self):
-		consumer_key='FM3nYXvUHfNAPTEBgM69pKAdb'
-		consumer_secret='8LXbtMybMsEZe0Bz3OoWvIzK4crV9HVZBRNUi2agNOVfyuiu6A'
-		access_token='4834720380-dzufecsaD6GfMCG24OCSACLUtnMlOte1zBxUo8a'
-		access_secret='lZd7RiVbY3Bhn2iK2r7n8kC9fPXy7yUANz8WhqAwmQGWO'
+		consumer_key='FM3nYXvUHxxxxxxxxxxxxxxxb'
+		consumer_secret='8LXbtMybMsEZe0Bz3OoWvIzK4crV9HVZxxxxxxxxxxxxxxx'
+		access_token='4834720380xxxxxxxxxxxxxxxxxxxxxxxxxxxxCSACLUtnMlOte1zBxUo8a'
+		access_secret='lZd7RiVbY3xxxxxxxxxxxxxxxxxxxxxxxxxwmQGWO'
 
 
        # You will need consumer_key, consumer_secret,access_token,access_secret to use twitter API
